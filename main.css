@@ -1,0 +1,43 @@
+header{
+	background-image: url(https://s7d2.scene7.com/is/image/PartyRental/5250_category?$subCategory_wide--big$);
+	color:white;
+	text-align: center;
+}
+h1{
+	font-size:100px;
+	color:DarkOrange;
+	font-family: 'Lobster', cursive;
+}
+header img{
+	height: 30%;
+	width: 30%;
+	margin: 50px;
+	border: solid white 5px;
+}
+.nav{
+	background-color: SteelBlue; 
+	color: white;
+	margin:20px;
+	padding: 30px;
+	text-align: center
+}
+ul{
+	background-color: SteelBlue; 
+	color: white;
+	margin:20px;
+	padding: 30px;
+	text-align: center
+}
+li{
+	display; inline;
+	margin: 30px;
+	font-size: 20px;
+}
+.row{
+	font-size: 20px;
+	text-align: center
+}
+p{ 
+font-size: 18px;
+line-height: 1.6;
+ }
