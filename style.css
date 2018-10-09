@@ -1,86 +1,45 @@
-header{
-	background-image: url(https://s7d2.scene7.com/is/image/PartyRental/5250_category?$subCategory_wide--big$);
-	color:white;
-	text-align: center;
-}
-h1{
-	font-size:50px;
-	color:DarkOrange;
-	font-family: 'Lobster', cursive;
-	text-align: left;
-	transform: rotate(-10deg);
-	padding: 14px 25px;
-	width: 250px
-}
-
-.nav{
-	background-color: SteelBlue; 
-	color: white;
-	margin:20px;
-    padding: 14px 25px;
-	text-align: center;
-	font-family: 'Poppins', sans-serif
-}
-.nav-link{  
-	margin: 20px;
-}
-
-/* unvisited link */
-a:link {
-    color: white;
-}
-
-/* visited link */
-a:visited {
-    color: white;
-}
-
-/* mouse over link */
-a:hover {
-    color: DarkOrange;
-}
-
-/* selected link */
-a:active {
-    color: DarkOrange;
-}
-
-}
-
-a:link, a:visited {
-    text-decoration: none;
-    display: inline-block;
-}
-li{
-	display: inline;
-	margin: 30px;
-	font-size: 20px;
-}
-
-ul {
-	background-color: SteelBlue; 
-	color: white;
-	margin:20px;
-    padding: 14px 25px;
-	text-align: center;
-	font-size: 18px;
-	line-height: 1.6;
-	font-family: 'Poppins', sans-serif;
-
-}
-.gif{
-	height: 30%;
-	width: 30%;
-	margin: 50px;
-	border: solid white 5px;
-	display: inline;
-}
-.row{
-	font-size: 20px;
-	display: inline;
-}
-p{ 
-	font-family: 'Poppins', sans-serif;
-font-size: 30px;
-line-height: 2;
- }
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="reset.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Krub|Poppins" rel="stylesheet">
+	<title>Three Bites</title>
+</head>
+<body>
+	<header>
+	
+		<h1>Three Bites</h1>
+		<ul class="nav">
+			<a href="About.html" class="nav-link">About</a>
+ 			 <a href="Recipes.html" class="nav-link">Recipes</a>
+ 			 <a href="Reviews.html" class="nav-link">Reviews</a>
+ 			 <a href="FavoritePlaces.html" class="nav-link">Favorite Places</a>
+  			<a href="Contact.html" class="nav-link">Contact</a>
+		</ul>
+	</header>
+<div class="gif">
+	<img src="https://goboiano.com/wp-content/uploads/2017/02/tumblr_ob72uia7xb1u6xtrco1_500.gif">
+</div>
+	
+  <body class="row">
+    <img src= "https://static.boredpanda.com/blog/wp-content/uploads/2015/05/food-cubes-raw-lernert-sander-volkskrant-7.jpg" alt="Food Block" style="width:"350" height="350" />
+    <img src="https://cdn.cnn.com/cnnnext/dam/assets/171027052520-processed-foods-exlarge-tease.jpg" width="350" height="350" />
+	<img src="https://drpraegers.com/wp-content/uploads/2016/01/Sweet_Potato_Little.jpg" alt="Dinosaur Chicken Nugget" width="350" height="350"/>
+	</body>
+<ul>
+	<p>Most Underrated Foods</p>
+	<li>Durian</li>
+	<li>Bird's Nest Soup</li>
+	<li>Dinosaur Chicken Nuggets</li>
+</ul>
+<iframe width="1150" height="600"  
+src="https://www.youtube.com/embed/ZQYT2uuF57Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<object align="middle">
+    
+</div>
+</body>
+</html></div>
+</body>
+</html>
