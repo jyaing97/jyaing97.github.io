@@ -1,26 +1,29 @@
 header{
-	background-image: url(https://s7d2.scene7.com/is/image/PartyRental/5250_category?$subCategory_wide--big$);
 	color:white;
 	text-align: center;
 }
+
 h1{
 	font-size:50px;
 	color:DarkOrange;
 	font-family: 'Lobster', cursive;
 	text-align: left;
 	transform: rotate(-10deg);
-	padding: 14px 25px;
-	width: 250px
+	padding: 0px;
+	width: 400px;
+	margin-top: 0px;
+	border: 0px;
 }
 
 .nav{
 	background-color: SteelBlue; 
 	color: white;
-	margin:20px;
-    padding: 14px 25px;
+	margin: 0px;
+    padding: 15px;
 	text-align: center;
-	font-family: 'Poppins', sans-serif
+	font-family: 'Poppins', sans-serif;
 }
+
 .nav-link{  
 	margin: 20px;
 }
@@ -60,27 +63,22 @@ li{
 ul {
 	background-color: SteelBlue; 
 	color: white;
-	margin:20px;
+	margin:0px;
     padding: 14px 25px;
 	text-align: center;
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 1.6;
 	font-family: 'Poppins', sans-serif;
 
 }
-.gif{
-	height: 30%;
-	width: 30%;
-	margin: 50px;
-	border: solid white 5px;
-	display: inline;
-}
-.row{
-	font-size: 20px;
-	display: inline;
-}
+
 p{ 
 	font-family: 'Poppins', sans-serif;
-font-size: 30px;
+font-size: 15px;
 line-height: 2;
  }
+
+.mycarousel{
+	padding: 10px;
+}
+
